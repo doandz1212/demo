@@ -2,13 +2,13 @@
 
 
 /* PC */
-@media(min-width: 1024px){
+@media(min-width: 64em){
 
 }
 
 
 /* Tablet */
-@media(min-width:740px) and (max-width:1023px){
+@media(min-width:46.25em) and (max-width:163.9375em){
     .contact-info{
         line-height: 2;
     }
@@ -20,7 +20,7 @@
 }
 
 /* Tablet and mobile */
-@media(max-width:1023px){
+@media(max-width:163.9375em){
 
     #nav .subnav a{
         padding: 5px 12px;
@@ -44,7 +44,7 @@
 }
 
 /* Mobile */
-@media(max-width:739px){
+@media(max-width:46.1875em){
 
     .s-col-full,
     .s-with-full{
